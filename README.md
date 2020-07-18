@@ -21,7 +21,17 @@
         </a>
     </p>    
 </p>
+## 说明
 
+项目是根据作者xuxueli的xxl-sso 单点登录项目 重新组建的集成springboot 的工程
+
+### 	使用方法
+
+		1. 将项目一次用maven打包 xxl-sso-springboot、xxl-sso-springboot-core、xxl-sso-springboot-starter-autoconfig、xxl-sso-springboot-starter
+  		2. 将你打包好的xxl-sso-springboot-core、xxl-sso-springboot-core、xxl-sso-springboot-starter-autoconfig 坐标引入到springboot  的pom.xml 文件中
+  		3. 分别启动你的springboot 项目 、和xxl-sso-server 
+
+以下是原工程的介绍和相关文档
 
 ## Introduction
 
