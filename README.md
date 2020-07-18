@@ -24,7 +24,7 @@
 
 ##   说明 
 
-项目是根据作者xuxueli的xxl-sso 单点登录项目 重新组建的集成springboot 的工程
+项目是根据作者xuxueli的xxl-sso 单点登录项目 重新组建的集成springboot starter 的工程
 
 ### 	使用方法
 
