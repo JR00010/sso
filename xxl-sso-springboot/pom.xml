@@ -25,7 +25,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <jedis.version>2.9.0</jedis.version>
 
-        <spring-boot.version>1.5.17.RELEASE</spring-boot.version>
+        <spring-boot.version>2.3.1.RELEASE</spring-boot.version>
         <spring.version>4.3.20.RELEASE</spring.version>
 
     </properties>
